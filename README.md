@@ -1,17 +1,10 @@
-SMA44 est un projet d’agent intelligent en Python conçu pour explorer et implémenter des concepts avancés de Prompt Engineering et d’intégration de modèles de langage.
-Extraction de sentiments par aspect (Aspect-Based Sentiment Analysis).
-- Sortie structurée au format JSON.
-- Gestion des dépendances ultra-rapide avec `uv`.
-Ce projet utilise :
+# TP1 - Agentic AI Multi-Agent Systems
+SMA1 est un projet sous forme de Travaux pratique qu'implémente un système multi-agents basé sur le prompt engineering.(Aspect-Based Sentiment Analysis).
 
-LangChain
-
-Jupyter Notebook
-
-Postman 
-
-Outils AI modernes (OpenAI, Ollama, groq)
-
-Gestion d’environnement avec uv
-
-Python 3.11+
+## Technologies utilisées :
+- Python
+- LLM
+- Prompt Engineering Outils AI modernes (OpenAI, Ollama, groq)
+- Multi-Agent Systems
+- Gestion d’environnement avec uv
+- LangChain
