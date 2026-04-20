@@ -1,5 +1,5 @@
 # TP1 - Agentic AI Multi-Agent Systems
-SMA1 est un projet sous forme de Travaux pratique qu'implémente un système multi-agents basé sur le prompt engineering.(Aspect-Based Sentiment Analysis).
+SMA1 est un projet sous forme de Travaux pratique qu'implémente un système multi-agents basé sur le prompt engineering.
 
 ## Technologies utilisées :
 - Python
